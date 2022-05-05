@@ -1,7 +1,4 @@
-
-## Actively looking for Job Opportunities in Machine/Deep Learning and Computer Vision area.
-
-### Hello👋, Welcome to my Github Profile 
+## Hello👋, Welcome to my Github Profile 
 I am Giri, I am an Artificial Intelligence enthusiast, I am interested in designing and implementing AI/ML-driven solutions, using agile and scrum software development life cycle :blush:.
 
 I have finished my Master in Embedded Systems from the Technical University of Chemnitz. I have pursued research in Unsupervised learning and Generative adversarial networks.
