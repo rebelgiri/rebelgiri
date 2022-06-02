@@ -10,7 +10,7 @@ Prior, I have an ample experience in C and C++ Programming on Cross-Platform app
 
 * Worked on a C++ project related to Sensor Data Fusion, in which Bayesian Networks were used to estimate the driving direction of lanes. 
 
-#### 🌱 I am looking forward to gaining expertise in
+#### 🌱 I am looking forward to gaining expertise in ...
 * Computer Vision.
 * Deep Learning and Machine Learning (Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow).
 * Algorithms and Data Structures.
