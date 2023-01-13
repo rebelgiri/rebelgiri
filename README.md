@@ -22,7 +22,7 @@ Prior, I have an ample experience in C and C++ Programming on Cross-Platform app
 
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rebelgiri&count_private=true&show_icons=true&hide=contribs) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebelgiri&layout=compact)
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebelgiri&layout=compact) -->
 
 
 <a href="mailto:giriraj.pawar2012@gmail.com">![giriraj.pawar2012@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
