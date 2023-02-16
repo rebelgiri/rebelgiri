@@ -6,6 +6,8 @@ I have finished my Master in Embedded Systems from the Technical University of C
 Prior, I have an ample experience in C and C++ Programming on Cross-Platform application development. I have a sound understanding of GNU Linux OS as I have worked as Linux System Programmer with MNCs like Huawei Technologies and UST Global (deputed at Intel).
 
 #### 🔭 I’m currently working on ...
+* A Predictive Maintenance project using Deep Learning and Vibration data for Condition Monitoring of Industrial Machinary :heart_eyes:.
+
 * A research project in the area of Multi-Object Multi-Camera Tracking for Pedestrians :heart_eyes:.
 
 * Worked on a C++ project related to Sensor Data Fusion, in which Bayesian Networks were used to estimate the driving direction of lanes. 
