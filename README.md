@@ -3,7 +3,7 @@
 ## 🚴‍♂️ Introduction
 * I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
 * I hold a Master's degree in Embedded Systems from the Technical University of Chemnitz, where my research focused on Unsupervised Learning and Generative Adversarial Networks.
-  https://github.com/rebelgiri/thesis-domain-adaptation_of-synthetic-document-images-using-neural-networks
+  https://github.com/rebelgiri/thesis-domain-adaptation-of-synthetic-document-images-using-neural-networks
 
 * I am presently employed at Fusionsystems GmbH in Chemnitz, Germany, where my role involves overseeing automotive software development and testing while ensuring compliance with ISO 26262 and ASIL standards. Concurrently, I am engaged in collaborative projects with automotive software companies such as Cariad, FD Tech, and Intenta in the Saxony region.
  
