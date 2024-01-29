@@ -1,15 +1,15 @@
 # Resume
 
 #### 🧑‍🎓 Introduction
-* I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
+🌱 I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
 
-* I hold a Master's degree in Embedded Systems from the Technical University of Chemnitz, where my research focused on Unsupervised Learning and Generative Adversarial Networks.
+🌱 I hold a Master's degree in Embedded Systems from the Technical University of Chemnitz, where my research focused on Unsupervised Learning and Generative Adversarial Networks.
 
-* My prior experience involves extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel). 
+🌱 My prior experience involves extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel). 
 
-* I have actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
+🌱 I have actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
 
-#### 🔭 I'm presently engaged in ...
+#### 🧑‍🏭 I'm presently engaged in ...
 * Automotive software development and testing, adhering to ISO 26262 and ASIL compliances.
 
 * Predictive Maintenance project using Deep Learning and Vibration data for Condition Monitoring of Industrial Machinary :heart_eyes:.
@@ -18,14 +18,14 @@
 
 * Worked on a C++ project related to Sensor Data Fusion, in which Bayesian Networks were used to estimate the driving direction of lanes.
 
-#### Skills
+#### ⛷️ Skills
 
-* **Languages**  : C, C++ and Python
-* **Tools**      : Git, JIRA and Confluence
-* **Frameworks** : Google Test, TensorFlow, Keras, PyTorch}
-* **Libraries**  : OpenCV, Scikit-learn and NumPy}
+🌱 **Languages**  : C, C++ and Python
+🌱 **Tools**      : Git, JIRA and Confluence
+🌱 **Frameworks** : Google Test, TensorFlow, Keras, PyTorch}
+🌱 **Libraries**  : OpenCV, Scikit-learn and NumPy}
 
-#### 🌱 Professional Interests
+#### 🧘‍♂️ Professional Interests
 * C++ software development and unit testing using Google Test & gMocks.
 * Computer Vision.
 * Deep Learning and Machine Learning (PyTorch, TensorFlow and Keras).
