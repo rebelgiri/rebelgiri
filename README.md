@@ -1,13 +1,13 @@
 # Resume
 
 #### 🧑‍🎓 Introduction
-I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
+* I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
 
-I hold a Master's degree in Embedded Systems from the Technical University of Chemnitz, where my research focused on Unsupervised Learning and Generative Adversarial Networks.
+* I hold a Master's degree in Embedded Systems from the Technical University of Chemnitz, where my research focused on Unsupervised Learning and Generative Adversarial Networks.
 
-My prior experience involves extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel). 
+* My prior experience involves extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel). 
 
-I have actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
+* I have actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
 
 #### 🔭 I'm presently engaged in ...
 * Automotive software development and testing, adhering to ISO 26262 and ASIL compliances.
