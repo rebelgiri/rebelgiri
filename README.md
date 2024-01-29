@@ -20,19 +20,15 @@ I have actively contributed to numerous C++ projects with a primary focus on Sen
 
 #### Skills
 
-* **Languages** C, C++ and Python
-* **Tools**  Git, JIRA and Confluence
-* **Frameworks** google-tests TensorFlow, Keras, PyTorch}
-* **Libraries** OpenCV, Scikit-learn and NumPy}
+* **Languages**  : C, C++ and Python
+* **Tools**      : Git, JIRA and Confluence
+* **Frameworks** : Google Test, TensorFlow, Keras, PyTorch}
+* **Libraries**  : OpenCV, Scikit-learn and NumPy}
 
 #### 🌱 Professional Interests
+* C++ software development and unit testing using Google Test & gMocks.
 * Computer Vision.
 * Deep Learning and Machine Learning (PyTorch, TensorFlow and Keras).
-* C++ Software Development
-* 
-*
-*
-*
 * Algorithms and Data Structures.
 * Bayesian Networks and Predictive Filters like Kalman.
   
