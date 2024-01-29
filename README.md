@@ -1,11 +1,14 @@
 ## Hello👋, Welcome to my Github Profile 
-I am Giri, I am an Artificial Intelligence enthusiast, I am interested in designing and implementing AI/ML-driven solutions, using agile and scrum software development life cycle :blush:.
+I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
 
-I have finished my Master in Embedded Systems from the Technical University of Chemnitz. I have pursued research in Unsupervised learning and Generative adversarial networks.
+I hold a Master's degree in Embedded Systems from the Technical University of Chemnitz, where my research focused on Unsupervised Learning and Generative Adversarial Networks.
 
-Prior, I have an ample experience in C and C++ Programming on Cross-Platform application development. I have a sound understanding of GNU Linux OS as I have worked as Linux System Programmer with MNCs like Huawei Technologies and UST Global (deputed at Intel).
+My prior experience involves extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel). 
 
-#### 🔭 I’m currently working on ...
+I have actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes. Presently, I am engaged in automotive software development, adhering to ISO 26262 and ASIL compliances.
+
+#### 🔭 I'm presently engaged in ...
+
 * A Predictive Maintenance project using Deep Learning and Vibration data for Condition Monitoring of Industrial Machinary :heart_eyes:.
 
 * A research project in the area of Multi-Object Multi-Camera Tracking for Pedestrians :heart_eyes:.
