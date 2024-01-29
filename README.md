@@ -10,19 +10,32 @@ My prior experience involves extensive work in C and C++ programming for Cross-P
 I have actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
 
 #### 🔭 I'm presently engaged in ...
-* automotive software development, adhering to ISO 26262 and ASIL compliances.
+* Automotive software development and testing, adhering to ISO 26262 and ASIL compliances.
 
 * Predictive Maintenance project using Deep Learning and Vibration data for Condition Monitoring of Industrial Machinary :heart_eyes:.
 
 * A research project in the area of Multi-Object Multi-Camera Tracking for Pedestrians :heart_eyes:.
 
-* Worked on a C++ project related to Sensor Data Fusion, in which Bayesian Networks were used to estimate the driving direction of lanes. 
+* Worked on a C++ project related to Sensor Data Fusion, in which Bayesian Networks were used to estimate the driving direction of lanes.
+
+#### Skills
+
+* **Languages** C, C++ and Python
+* **Tools**  Git, JIRA and Confluence
+* **Frameworks** google-tests TensorFlow, Keras, PyTorch}
+* **Libraries** OpenCV, Scikit-learn and NumPy}
 
 #### 🌱 Professional Interests
 * Computer Vision.
 * Deep Learning and Machine Learning (PyTorch, TensorFlow and Keras).
+* C++ Software Development
+* 
+*
+*
+*
 * Algorithms and Data Structures.
 * Bayesian Networks and Predictive Filters like Kalman.
+  
   
 <!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rebelgiri&count_private=true&show_icons=true&hide=contribs) -->
 
