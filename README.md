@@ -16,10 +16,12 @@ https://github.com/rebelgiri/predictive-maintenance-using-deep-learning
 * Extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel).
 
 ## ⛷️ Skills
-* **Languages**  : C, C++ and Python
-* **Tools**      : Git, JIRA and Confluence
-* **Frameworks** : Google Test, TensorFlow, Keras and PyTorch
-* **Libraries**  : OpenCV, Scikit-learn and NumPy
+* **Programming Languages**: C, C++, Python
+* **Development Tools**: Visual Studio, VS Code, Git, JIRA, Confluence, Jenkins, ADTF, PSD Provider, CMake, GDB
+* **Frameworks**: CI & CD, GoogleTest, TensorFlow, Keras, PyTorch
+* **Libraries**: OpenCV, Scikit-learn, NumPy
+* **Methodologies**: Agile and Scrum
+* **Compliances & Guidelines**: ISO 26262, ASIL, MISRA, ASPICE
 
 ## 🧘‍♂️ Professional Interests
 * C++ software development and unit testing using Google Test & gMocks
