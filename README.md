@@ -12,7 +12,7 @@
 * Predictive Maintenance project using Deep Learning and Vibration data for Condition Monitoring of Industrial Machinary :heart_eyes:.
 https://github.com/rebelgiri/predictive-maintenance-using-deep-learning
 * A research project in the area of Multi-Object Multi-Camera Tracking for Pedestrians :heart_eyes:.
-* Atively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
+* Actively contributed to numerous C++ projects with a primary focus on Sensor Data Fusion. One notable example includes utilizing Bayesian Networks to estimate the driving direction of lanes.
 * Extensive work in C and C++ programming for Cross-Platform application development. I possess a strong grasp of the GNU Linux operating system, having served as a Linux System Programmer at renowned companies like Huawei Technologies and UST Global (deputed at Intel).
 
 ## ⛷️ Skills
