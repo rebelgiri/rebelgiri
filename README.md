@@ -1,4 +1,4 @@
-# About
+# About Myself
 
 ## 🚴‍♂️ Introduction
 * I'm Giri, an avid Artificial Intelligence enthusiast with a keen interest in crafting and implementing AI/ML-driven solutions, leveraging the agile and scrum software development life cycle. 😊
