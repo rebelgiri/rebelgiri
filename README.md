@@ -31,17 +31,7 @@ https://github.com/rebelgiri/predictive-maintenance-using-deep-learning
 * Bayesian Networks and Predictive Filters like Kalman
 * Sensor data fusion
   
-<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rebelgiri&count_private=true&show_icons=true&hide=contribs) -->
-
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebelgiri&layout=compact) -->
-
-
 <a href="mailto:giriraj.pawar2012@gmail.com">![giriraj.pawar2012@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <a href="https://www.linkedin.com/in/rebelgiri/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-### Credits
-
-:blush: I have created my profile by referring an [article](https://laxmena.com/posts/github-pofile-readme) created by [Lakshmanan Meiyappan](https://github.com/laxmena).
 
