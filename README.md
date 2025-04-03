@@ -6,7 +6,6 @@
   https://github.com/rebelgiri/thesis-domain-adaptation-of-synthetic-document-images-using-neural-networks
 
 * I am presently employed at Fusionsystems GmbH in Chemnitz, Germany, where my role involves overseeing automotive software development and testing while ensuring compliance with ISO 26262 and ASIL standards. Concurrently, I am engaged in collaborative projects with automotive software companies such as Cariad, FD Tech, and Intenta in the Saxony region.
- 
 
 ## 🚅 Projects and Experiences
 * Predictive Maintenance project using Deep Learning and Vibration data for Condition Monitoring of Industrial Machinary :heart_eyes:.
